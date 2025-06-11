@@ -10,3 +10,4 @@
 /home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.dll
 /home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.pdb
 /home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.genruntimeconfig.cache
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.sourcelink.json
