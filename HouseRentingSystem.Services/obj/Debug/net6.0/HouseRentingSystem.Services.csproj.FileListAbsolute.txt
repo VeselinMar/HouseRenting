@@ -1,0 +1,12 @@
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.deps.json
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.runtimeconfig.json
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.dll
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.pdb
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.csproj.AssemblyReference.cache
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.AssemblyInfoInputs.cache
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.AssemblyInfo.cs
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.dll
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.pdb
+/home/veselin/softgit/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.genruntimeconfig.cache
