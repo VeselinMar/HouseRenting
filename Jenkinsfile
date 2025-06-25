@@ -8,6 +8,12 @@ pipeline {
             }
         }
 
+        stage('Restore the project') {
+            steps {
+                sh 'dotnet restore'
+            }
+        }
+
         stage('Build the project') {
             steps {
                 sh 'dotnet --version'
@@ -20,6 +26,7 @@ pipeline {
                 sh 'dotnet test'
             }
         }
+
     }
 
     post {
