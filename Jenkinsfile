@@ -15,10 +15,8 @@ pipeline {
         }
 
         stage('Run Tests') {
-                stage('Run tests') {
-                    steps {
-                        bat 'dotnet test'
-                    }
+                steps {
+                    bat 'dotnet test'
                 }
         }
     }
