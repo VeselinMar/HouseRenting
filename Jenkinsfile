@@ -1,10 +1,6 @@
 pipeline {
     agent any
 
-    tools {
-    dotnet 'dotnet6'
-    }
-
     stages {
         stage('Checkout the repository') {
             steps {
@@ -14,6 +10,7 @@ pipeline {
 
         stage('Build the project') {
             steps {
+                sh 'dotnet --version'
                 sh 'dotnet build'
             }
         }
