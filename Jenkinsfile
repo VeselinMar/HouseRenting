@@ -1,6 +1,10 @@
 pipeline {
     agent any
 
+    tools {
+    dotnet 'dotnet6'
+    }
+
     stages {
         stage('Checkout the repository') {
             steps {
